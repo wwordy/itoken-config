@@ -6,7 +6,7 @@ spring:
       label: master
       server:
         git:
-          uri: https://gitlab.com/itoken14/itoken-config.git
+          uri: https://github.com/wwordy/itoken-config.git
           search-paths: respo
           username: wwordy
           password: ehfxdta9
